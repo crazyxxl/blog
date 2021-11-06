@@ -3,11 +3,11 @@
   <title>小龙的个人笔记</title>
   
   <subtitle>学习笔记</subtitle>
-  <link href="http://crazy_xl.gitee.io/atom.xml" rel="self"/>
+  <link href="http://crazy_xl.gitee.io/blog/atom.xml" rel="self"/>
   
-  <link href="http://crazy_xl.gitee.io/"/>
+  <link href="http://crazy_xl.gitee.io/blog/"/>
   <updated>2021-11-06T13:14:41.029Z</updated>
-  <id>http://crazy_xl.gitee.io/</id>
+  <id>http://crazy_xl.gitee.io/blog/</id>
   
   <author>
     <name>小龙</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://crazy_xl.gitee.io/2021/11/06/hello-world%20-%20%E5%89%AF%E6%9C%AC/"/>
-    <id>http://crazy_xl.gitee.io/2021/11/06/hello-world%20-%20%E5%89%AF%E6%9C%AC/</id>
+    <link href="http://crazy_xl.gitee.io/blog/2021/11/06/hello-world%20-%20%E5%89%AF%E6%9C%AC/"/>
+    <id>http://crazy_xl.gitee.io/blog/2021/11/06/hello-world%20-%20%E5%89%AF%E6%9C%AC/</id>
     <published>2021-11-06T13:12:01.062Z</published>
     <updated>2021-11-06T13:14:41.029Z</updated>
     
@@ -29,17 +29,17 @@
     
     
     
-    <category term="test" scheme="http://crazy_xl.gitee.io/categories/test/"/>
+    <category term="test" scheme="http://crazy_xl.gitee.io/blog/categories/test/"/>
     
     
-    <category term="test" scheme="http://crazy_xl.gitee.io/tags/test/"/>
+    <category term="test" scheme="http://crazy_xl.gitee.io/blog/tags/test/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://crazy_xl.gitee.io/2021/11/06/hello-world/"/>
-    <id>http://crazy_xl.gitee.io/2021/11/06/hello-world/</id>
+    <link href="http://crazy_xl.gitee.io/blog/2021/11/06/hello-world/"/>
+    <id>http://crazy_xl.gitee.io/blog/2021/11/06/hello-world/</id>
     <published>2021-11-06T06:19:26.752Z</published>
     <updated>2021-11-06T12:24:50.777Z</updated>
     
@@ -54,10 +54,10 @@
     
     
     
-    <category term="test" scheme="http://crazy_xl.gitee.io/categories/test/"/>
+    <category term="test" scheme="http://crazy_xl.gitee.io/blog/categories/test/"/>
     
     
-    <category term="test" scheme="http://crazy_xl.gitee.io/tags/test/"/>
+    <category term="test" scheme="http://crazy_xl.gitee.io/blog/tags/test/"/>
     
   </entry>
   

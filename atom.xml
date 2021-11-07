@@ -6,7 +6,7 @@
   <link href="https://hugo.pub/atom.xml" rel="self"/>
   
   <link href="https://hugo.pub/"/>
-  <updated>2021-11-07T15:15:22.006Z</updated>
+  <updated>2021-11-07T16:30:08.431Z</updated>
   <id>https://hugo.pub/</id>
   
   <author>
@@ -21,16 +21,10 @@
     <link href="https://hugo.pub/2021/11/07/CA%E8%AF%81%E4%B9%A6%E7%AD%BE%E5%8F%91%E4%B8%8E%E9%AA%8C%E8%AF%81%E7%AE%80%E8%BF%B0/"/>
     <id>https://hugo.pub/2021/11/07/CA%E8%AF%81%E4%B9%A6%E7%AD%BE%E5%8F%91%E4%B8%8E%E9%AA%8C%E8%AF%81%E7%AE%80%E8%BF%B0/</id>
     <published>2021-11-07T12:09:39.358Z</published>
-    <updated>2021-11-07T15:15:22.006Z</updated>
+    <updated>2021-11-07T16:30:08.431Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h3 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot;</summary>
-        
-      
+    <summary type="html">&lt;h3 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背景&lt;/h3&gt;&lt;p&gt;HTTP（超文本传输协议）是当下使用非常普遍的一种无状态的应用层协议，其使用明文传递数据，这些数据可以通过一些抓包的手段分析截获，因此对于一些安全等级相对较高的网站来讲是不可接受的，在这样的背景之下，对数据进行加密处理已经是一件迫在眉睫的事情，那么如何对数据进行加密呢，当下对于数据能实现正反解析（加密与解密）的算法有两类，对称加密与非对称加密。&lt;/p&gt;</summary>
     
     
     

@@ -3,11 +3,11 @@
   <title>个人笔记</title>
   
   <subtitle>小龙的学习笔记</subtitle>
-  <link href="https://hugo.pub/atom.xml" rel="self"/>
+  <link href="https://blog.hugo.pub/atom.xml" rel="self"/>
   
-  <link href="https://hugo.pub/"/>
+  <link href="https://blog.hugo.pub/"/>
   <updated>2021-11-07T16:30:08.431Z</updated>
-  <id>https://hugo.pub/</id>
+  <id>https://blog.hugo.pub/</id>
   
   <author>
     <name>小龙</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>CA证书签发与验证简述</title>
-    <link href="https://hugo.pub/2021/11/07/CA%E8%AF%81%E4%B9%A6%E7%AD%BE%E5%8F%91%E4%B8%8E%E9%AA%8C%E8%AF%81%E7%AE%80%E8%BF%B0/"/>
-    <id>https://hugo.pub/2021/11/07/CA%E8%AF%81%E4%B9%A6%E7%AD%BE%E5%8F%91%E4%B8%8E%E9%AA%8C%E8%AF%81%E7%AE%80%E8%BF%B0/</id>
+    <link href="https://blog.hugo.pub/2021/11/07/CA%E8%AF%81%E4%B9%A6%E7%AD%BE%E5%8F%91%E4%B8%8E%E9%AA%8C%E8%AF%81%E7%AE%80%E8%BF%B0/"/>
+    <id>https://blog.hugo.pub/2021/11/07/CA%E8%AF%81%E4%B9%A6%E7%AD%BE%E5%8F%91%E4%B8%8E%E9%AA%8C%E8%AF%81%E7%AE%80%E8%BF%B0/</id>
     <published>2021-11-07T12:09:39.358Z</published>
     <updated>2021-11-07T16:30:08.431Z</updated>
     
@@ -28,10 +28,10 @@
     
     
     
-    <category term="网络" scheme="https://hugo.pub/categories/%E7%BD%91%E7%BB%9C/"/>
+    <category term="网络" scheme="https://blog.hugo.pub/categories/%E7%BD%91%E7%BB%9C/"/>
     
     
-    <category term="https" scheme="https://hugo.pub/tags/https/"/>
+    <category term="https" scheme="https://blog.hugo.pub/tags/https/"/>
     
   </entry>
   

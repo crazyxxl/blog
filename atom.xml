@@ -6,7 +6,7 @@
   <link href="https://blog.hugo.pub/atom.xml" rel="self"/>
   
   <link href="https://blog.hugo.pub/"/>
-  <updated>2021-11-07T16:30:08.431Z</updated>
+  <updated>2022-01-05T14:36:12.964Z</updated>
   <id>https://blog.hugo.pub/</id>
   
   <author>
@@ -21,10 +21,10 @@
     <link href="https://blog.hugo.pub/2021/11/07/CA%E8%AF%81%E4%B9%A6%E7%AD%BE%E5%8F%91%E4%B8%8E%E9%AA%8C%E8%AF%81%E7%AE%80%E8%BF%B0/"/>
     <id>https://blog.hugo.pub/2021/11/07/CA%E8%AF%81%E4%B9%A6%E7%AD%BE%E5%8F%91%E4%B8%8E%E9%AA%8C%E8%AF%81%E7%AE%80%E8%BF%B0/</id>
     <published>2021-11-07T12:09:39.358Z</published>
-    <updated>2021-11-07T16:30:08.431Z</updated>
+    <updated>2022-01-05T14:36:12.964Z</updated>
     
     
-    <summary type="html">&lt;h3 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背景&lt;/h3&gt;&lt;p&gt;HTTP（超文本传输协议）是当下使用非常普遍的一种无状态的应用层协议，其使用明文传递数据，这些数据可以通过一些抓包的手段分析截获，因此对于一些安全等级相对较高的网站来讲是不可接受的，在这样的背景之下，对数据进行加密处理已经是一件迫在眉睫的事情，那么如何对数据进行加密呢，当下对于数据能实现正反解析（加密与解密）的算法有两类，对称加密与非对称加密。&lt;/p&gt;</summary>
+    <summary type="html">&lt;h3 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背景&lt;/h3&gt;&lt;p&gt;HTTP（超文本传输协议）是一种无状态的以明文传递数据的应用层协议，是当下使用最为广泛的应用层协议之一，但由于其数据是明文传递数据，我们可以通过抓包工具（如windows下使用wireshark，linux下tcpdump）获取到数据包，直接能看到程序所发送的数据，如图1-1所示，因此对于一些具有安全性需求的场合，HTTP就不够用了，为了解决HTTP所面临的安全性问题，提出了HTTPS的概念，HTTPS所做事情就是: 在发送端，将明文的数据加密传输，在接收端，将数据解密交给应用程序处理，http本省不具备该项能力，因此需要借助其他OSI七层模型中的其他层去完成，结合OSI七层（如图1.2）概念模型，其加解密是在表示层完成。&lt;/p&gt;</summary>
     
     
     

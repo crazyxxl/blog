@@ -37,4 +37,60 @@
         <tag>https</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Git commit message 规范</title>
+    <url>/2022/02/19/Git%20commit%20message%20%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/</url>
+    <content><![CDATA[<h3 id="Git-commit-message-提交规范"><a href="#Git-commit-message-提交规范" class="headerlink" title="Git commit message 提交规范"></a>Git commit message 提交规范</h3><p>git 在提交代码时，根据不同的提交类型需要添加不同的前缀以作区分，以便更加清晰的看出每次修改的类型以及内容，常用的前缀有一下几类：</p>
+<table>
+<thead>
+<tr>
+<th>前缀名</th>
+<th>释义</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>feat</td>
+<td>提交功能新特性</td>
+</tr>
+<tr>
+<td>fix</td>
+<td>修改bug</td>
+</tr>
+<tr>
+<td>refactor</td>
+<td>在不影响现有既定功能的情况下重构代码</td>
+</tr>
+<tr>
+<td>docs</td>
+<td>文档修改</td>
+</tr>
+<tr>
+<td>test</td>
+<td>测试相关修改，用例增改</td>
+</tr>
+<tr>
+<td>pref</td>
+<td>性能提升类修改</td>
+</tr>
+<tr>
+<td>style</td>
+<td>代码格式修改，去除空行或者修改符号之类修改</td>
+</tr>
+<tr>
+<td>build</td>
+<td>项目构建类型修改</td>
+</tr>
+<tr>
+<td>chore</td>
+<td>日常任务，除却以上类型的其他类型</td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>git</tag>
+      </tags>
+  </entry>
 </search>

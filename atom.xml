@@ -6,7 +6,7 @@
   <link href="https://blog.hugo.pub/atom.xml" rel="self"/>
   
   <link href="https://blog.hugo.pub/"/>
-  <updated>2022-01-05T14:36:12.964Z</updated>
+  <updated>2022-02-19T07:34:21.548Z</updated>
   <id>https://blog.hugo.pub/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Git commit message 规范</title>
+    <link href="https://blog.hugo.pub/2022/02/19/Git%20commit%20message%20%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/"/>
+    <id>https://blog.hugo.pub/2022/02/19/Git%20commit%20message%20%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/</id>
+    <published>2022-02-19T07:34:21.390Z</published>
+    <updated>2022-02-19T07:34:21.548Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;Git-commit-message-提交规范&quot;&gt;&lt;a href=&quot;#Git-commit-message-提交规范&quot; class=&quot;headerlink&quot; title=&quot;Git commit message 提交规范&quot;&gt;&lt;/a&gt;Git commit</summary>
+        
+      
+    
+    
+    
+    <category term="工具" scheme="https://blog.hugo.pub/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="git" scheme="https://blog.hugo.pub/tags/git/"/>
+    
+  </entry>
   
   <entry>
     <title>CA证书签发与验证简述</title>

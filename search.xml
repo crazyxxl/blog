@@ -40,12 +40,13 @@
   <entry>
     <title>Git commit message 规范</title>
     <url>/2022/02/19/Git%20commit%20message%20%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/</url>
-    <content><![CDATA[<h3 id="Git-commit-message-提交规范"><a href="#Git-commit-message-提交规范" class="headerlink" title="Git commit message 提交规范"></a>Git commit message 提交规范</h3><p>git 在提交代码时，根据不同的提交类型需要添加不同的前缀以作区分，以便更加清晰的看出每次修改的类型以及内容，常用的前缀有一下几类：</p>
+    <content><![CDATA[<h3 id="Git-commit-message-提交规范"><a href="#Git-commit-message-提交规范" class="headerlink" title="Git commit message 提交规范"></a>Git commit message 提交规范</h3><p>git 在提交代码时，根据不同的提交类型需要添加不同的前缀以作区分，以便更加清晰的看出每次修改的类型以及内容，不同的团队以及公司有其不同的规范，在开发过程中个人常用的message 构成格式为：type: scope commit detail</p>
+<p>常用的type包含以下几类：</p>
 <table>
 <thead>
 <tr>
-<th>前缀名</th>
-<th>释义</th>
+<th>类型</th>
+<th>描述</th>
 </tr>
 </thead>
 <tbody><tr>
@@ -85,6 +86,9 @@
 <td>日常任务，除却以上类型的其他类型</td>
 </tr>
 </tbody></table>
+<p>scope：影响的范围，在项目中一般指代的是修改的模块</p>
+<p>commit detail：具体修改项的详细描述</p>
+<p><strong>遵守规范能有效提升工作以及学习效率，共勉</strong></p>
 ]]></content>
       <categories>
         <category>工具</category>

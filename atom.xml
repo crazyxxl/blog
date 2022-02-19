@@ -6,7 +6,7 @@
   <link href="https://blog.hugo.pub/atom.xml" rel="self"/>
   
   <link href="https://blog.hugo.pub/"/>
-  <updated>2022-02-19T07:51:50.963Z</updated>
+  <updated>2022-02-19T08:01:55.976Z</updated>
   <id>https://blog.hugo.pub/</id>
   
   <author>
@@ -21,16 +21,10 @@
     <link href="https://blog.hugo.pub/2022/02/19/Git%20commit%20message%20%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/"/>
     <id>https://blog.hugo.pub/2022/02/19/Git%20commit%20message%20%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/</id>
     <published>2022-02-19T07:34:21.390Z</published>
-    <updated>2022-02-19T07:51:50.963Z</updated>
+    <updated>2022-02-19T08:01:55.976Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h3 id=&quot;Git-commit-message-提交规范&quot;&gt;&lt;a href=&quot;#Git-commit-message-提交规范&quot; class=&quot;headerlink&quot; title=&quot;Git commit message 提交规范&quot;&gt;&lt;/a&gt;Git commit</summary>
-        
-      
+    <summary type="html">&lt;h3 id=&quot;Git-commit-message-提交规范&quot;&gt;&lt;a href=&quot;#Git-commit-message-提交规范&quot; class=&quot;headerlink&quot; title=&quot;Git commit message 提交规范&quot;&gt;&lt;/a&gt;Git commit message 提交规范&lt;/h3&gt;&lt;p&gt;git 在提交代码时，根据不同的提交类型需要添加不同的前缀以作区分，以便更加清晰的看出每次修改的类型以及内容，不同的团队以及公司有其不同的规范，在开发过程中个人常用的message 构成格式为：type: scope commit detail&lt;/p&gt;</summary>
     
     
     

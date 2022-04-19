@@ -6,7 +6,7 @@
   <link href="https://blog.hugo.pub/atom.xml" rel="self"/>
   
   <link href="https://blog.hugo.pub/"/>
-  <updated>2022-02-19T08:01:55.976Z</updated>
+  <updated>2022-04-19T07:00:41.038Z</updated>
   <id>https://blog.hugo.pub/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CA证书签发与验证简述</title>
+    <link href="https://blog.hugo.pub/2022/04/19/CA%E8%AF%81%E4%B9%A6%E7%AD%BE%E5%8F%91%E4%B8%8E%E9%AA%8C%E8%AF%81%E7%AE%80%E8%BF%B0/"/>
+    <id>https://blog.hugo.pub/2022/04/19/CA%E8%AF%81%E4%B9%A6%E7%AD%BE%E5%8F%91%E4%B8%8E%E9%AA%8C%E8%AF%81%E7%AE%80%E8%BF%B0/</id>
+    <published>2022-04-19T06:53:36.835Z</published>
+    <updated>2022-04-19T07:00:41.038Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背景&lt;/h3&gt;&lt;p&gt;HTTP（超文本传输协议）是一种无状态的以明文传递数据的应用层协议，是当下使用最为广泛的应用层协议之一，但由于其数据是明文传递数据，我们可以通过抓包工具（如windows下使用wireshark，linux下tcpdump）获取到数据包，直接能看到程序所发送的数据，如图1-1所示，因此对于一些具有安全性需求的场合，HTTP就不够用了，为了解决HTTP所面临的安全性问题，提出了HTTPS的概念，HTTPS所做事情就是: 在发送端，将明文的数据加密传输，在接收端，将数据解密交给应用程序处理，http本省不具备该项能力，因此需要借助其他OSI七层模型中的其他层去完成，结合OSI七层（如图1.2）概念模型，其加解密是在表示层完成。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="网络" scheme="https://blog.hugo.pub/categories/%E7%BD%91%E7%BB%9C/"/>
+    
+    
+    <category term="https" scheme="https://blog.hugo.pub/tags/https/"/>
+    
+  </entry>
   
   <entry>
     <title>Git commit message 规范</title>
@@ -32,25 +51,6 @@
     
     
     <category term="git" scheme="https://blog.hugo.pub/tags/git/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CA证书签发与验证简述</title>
-    <link href="https://blog.hugo.pub/2021/11/07/CA%E8%AF%81%E4%B9%A6%E7%AD%BE%E5%8F%91%E4%B8%8E%E9%AA%8C%E8%AF%81%E7%AE%80%E8%BF%B0/"/>
-    <id>https://blog.hugo.pub/2021/11/07/CA%E8%AF%81%E4%B9%A6%E7%AD%BE%E5%8F%91%E4%B8%8E%E9%AA%8C%E8%AF%81%E7%AE%80%E8%BF%B0/</id>
-    <published>2021-11-07T12:09:39.358Z</published>
-    <updated>2022-01-05T14:36:12.964Z</updated>
-    
-    
-    <summary type="html">&lt;h3 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背景&lt;/h3&gt;&lt;p&gt;HTTP（超文本传输协议）是一种无状态的以明文传递数据的应用层协议，是当下使用最为广泛的应用层协议之一，但由于其数据是明文传递数据，我们可以通过抓包工具（如windows下使用wireshark，linux下tcpdump）获取到数据包，直接能看到程序所发送的数据，如图1-1所示，因此对于一些具有安全性需求的场合，HTTP就不够用了，为了解决HTTP所面临的安全性问题，提出了HTTPS的概念，HTTPS所做事情就是: 在发送端，将明文的数据加密传输，在接收端，将数据解密交给应用程序处理，http本省不具备该项能力，因此需要借助其他OSI七层模型中的其他层去完成，结合OSI七层（如图1.2）概念模型，其加解密是在表示层完成。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="网络" scheme="https://blog.hugo.pub/categories/%E7%BD%91%E7%BB%9C/"/>
-    
-    
-    <category term="https" scheme="https://blog.hugo.pub/tags/https/"/>
     
   </entry>
   
